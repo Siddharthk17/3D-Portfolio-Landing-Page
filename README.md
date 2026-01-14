@@ -1,3 +1,4 @@
+<div align="center">
 # 🚀 Portfolio Landing Page
 
 <div align="center">
@@ -39,7 +40,9 @@
 ---
 
 **Experience it live:** https://3dportfolio-website-sid.netlify.app/
-
+  <blockquote>
+    <i>"A Jack Of All Trades Is A Master Of None,<br>But Oftentimes Better Than A Master Of One."</i>
+  </blockquote>
 </div>
 
 ---
@@ -316,11 +319,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-**Sid** - [Your Email](mailto:your.email@example.com)
+**Sid** - [My Email](mailto:siddharthkakade7777@gmail.com)
 
 **🌐 Live Site:** [https://3dportfolio-website-sid.netlify.app/](https://3dportfolio-website-sid.netlify.app/)
 
-**📦 Repository:** [https://github.com/yourusername/portfolio-landing](https://github.com/yourusername/portfolio-landing)
+**📦 Repository:** [Repository](https://github.com/Siddharthk17/3D-Portfolio-Landing-Page)
 
 ---
 
